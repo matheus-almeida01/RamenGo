@@ -1,0 +1,26 @@
+{
+  "name": "ramengo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheus-almeida01/RamenGo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheus-almeida01/RamenGo/issues"
+  },
+  "homepage": "https://github.com/matheus-almeida01/RamenGo#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.2"
+  }
+}
